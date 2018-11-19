@@ -1,0 +1,10 @@
+# directories
+node_modules/
+samples/
+examples/
+
+# files
+bundle.js
+.env
+scratchpad.js
+.DS_Store
